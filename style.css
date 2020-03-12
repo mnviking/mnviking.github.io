@@ -1,0 +1,44 @@
+body {
+	font: 16px Arial, Sans-Serif;
+	background-color: #90EE90;
+}
+
+img {
+	width: 200px;
+	height: auto;
+	float: right;
+}
+
+body {
+	width: 800px;
+	margin: 20px auto 80px;
+}
+
+.intro{
+	margin-top: 10px;
+	margin-right: 20px;
+	font-size: 50px;
+	font-weight: bold;
+	width: 400px;
+  	padding: 25px;
+  	box-sizing: border-box;
+  	border-style: solid;
+}
+
+.contact{
+	margin-top: 10px;
+	width: 800px;
+	font-size: 16px;
+  	padding: 25px;
+  	box-sizing: border-box;
+  	border-style: solid;
+}
+
+.contact h1 {
+	font-size: 20px;
+	font-weight bold;
+}
+
+.education li{
+	margin: 10px;
+}
